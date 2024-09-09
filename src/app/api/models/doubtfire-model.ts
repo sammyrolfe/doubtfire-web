@@ -33,6 +33,7 @@ export * from '../services/task-outcome-alignment.service';
 export * from './task-similarity';
 export * from './tii-action';
 export * from './course';
+export * from './course-map';
 
 // Users -- are students or staff
 export * from './user/user';
