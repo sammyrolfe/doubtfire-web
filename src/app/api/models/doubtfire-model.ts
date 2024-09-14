@@ -34,6 +34,8 @@ export * from './task-similarity';
 export * from './tii-action';
 export * from './course';
 export * from './course-map';
+export * from './unit-definition';
+export * from './requirement-set';
 
 // Users -- are students or staff
 export * from './user/user';
