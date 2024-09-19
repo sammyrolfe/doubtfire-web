@@ -6,8 +6,7 @@ import API_URL from 'src/app/config/constants/apiURL';
 
 @Injectable({
   providedIn: 'root',
-}
-)
+})
 export class CourseMapUnitService {
 
   constructor(private http: HttpClient) {}

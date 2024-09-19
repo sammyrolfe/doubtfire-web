@@ -44,8 +44,6 @@ export * from './user/user';
 // WebCal -- calendars used to track task due dates
 export * from './webcal/webcal';
 
-
-
 export * from '../services/authentication.service';
 export * from '../services/unit.service';
 export * from '../services/project.service';

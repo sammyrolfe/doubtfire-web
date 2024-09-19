@@ -1,7 +1,7 @@
-import { Injectable } from '@angular/core';
-import { HttpClient, HttpParams } from '@angular/common/http';
-import { Observable } from 'rxjs';
-import { CourseMap } from '../models/doubtfire-model';
+import {Injectable} from '@angular/core';
+import {HttpClient, HttpParams} from '@angular/common/http';
+import {Observable} from 'rxjs';
+import {CourseMap} from '../models/doubtfire-model';
 import API_URL from 'src/app/config/constants/apiURL';
 
 @Injectable({

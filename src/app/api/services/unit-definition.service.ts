@@ -6,7 +6,7 @@ import {HttpClient, HttpParams} from '@angular/common/http';
 import API_URL from 'src/app/config/constants/apiURL';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class UnitDefinitionService {
   constructor(private http: HttpClient) {}
