@@ -34,6 +34,7 @@ export * from './task-similarity';
 export * from './tii-action';
 export * from './course';
 export * from './course-map';
+export * from './course-map-unit';
 export * from './unit-definition';
 export * from './requirement-set';
 
